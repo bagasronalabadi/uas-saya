@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737169958977",
+    "project_id": "bagasronal-50ffd",
+    "storage_bucket": "bagasronal-50ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737169958977:android:e38e971c5fa64bc25a3ec0",
+        "android_client_info": {
+          "package_name": "com.uas.bagasronal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737169958977-juphljk5tjkia8gvkl7d7m995aeiru9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLi_v1fqHAYP1oYkDfIxaWrnnqQuj4xYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737169958977-juphljk5tjkia8gvkl7d7m995aeiru9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
